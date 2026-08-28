@@ -1,5 +1,8 @@
 # GmE 205: Laboratory Exercise 1
 **Computational Thinking Foundations: Python, VS Code, and GitHub**
+## Overview
+*This laboratory exercise covers Python setup in VS Code, Git and GitHub version control, and basic spatial data inspection using Python. It provides hands-on practice with Git commands such as commit, push, and pull, while applying computational thinking concepts to understand data quality and characteristics.*
+
 ## How to set up the virtual environment
 The steps to set up a virtual environment:
 1. Open Visual Studio Code.
