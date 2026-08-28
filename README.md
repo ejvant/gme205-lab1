@@ -18,4 +18,5 @@ To run a Python script:
 3. Open the VS Code Terminal and make sure the virtual environment is active.
 4. Run the script using:
 `python src/hello.py`
+
 Edited on GitHub web interface and VS Code
