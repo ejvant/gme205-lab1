@@ -37,7 +37,7 @@ To run the Python script, open the VS Code Terminal and run:
 Before working with the dataset, I focused on the key characteristics of the dataset, such as its structure, coordinate values, data validity, and spatial extent to determine whether the dataset was suitable for further use. These checks helped me to understand the structure and characteristics of the data and identify errors and its limitations before it is used for further analysis. The CSV is treated as a consistent dataset where id, longitude, and latitude represent the geographic position of each point through coordinates recorded in WGS84 decimal degrees. Another assumption is that the coordinate values were correctly recorded and corresponded to locations within or around UP Diliman. The script can automatically perform basic and routine checks on data structure, missing values, coordinate ranges, and spatial extent. On the other hand, a human should check whether the coordinates are accurate, within the scope of expected study area, and relevant to the intended analysis. If the dataset becomes very large, processing may take more time and require greater memory. This may result in loading the script slowly and making visualization more difficult to interpret.
 
 ## Author
-Enoch Joshua V. Antonio
+Enoch Joshua V. Antonio  
 MS Geomatics Engineering
 
 Edited on GitHub web interface and VS Code
