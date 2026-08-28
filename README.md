@@ -9,6 +9,7 @@ The steps to set up a virtual environment:
 `py -m venv .venv`
 
 `.\.venv\Scripts\activate`
+
 4. When successful, your terminal prompt should show `(.venv)`.
 # How to run Python scripts
 To run a Python script:
