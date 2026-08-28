@@ -38,8 +38,6 @@ Before working with the dataset, I focused on the key characteristics of the dat
 
 ## Author
 Enoch Joshua V. Antonio
-
 MS Geomatics Engineering
-
 
 Edited on GitHub web interface and VS Code
